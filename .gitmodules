@@ -1,0 +1,8 @@
+[submodule "UBOS-template-Know-your-target-audience-nr"]
+	path = UBOS-template-Know-your-target-audience-nr
+	url = https://github.com/UBOS-Asset-Store/UBOS-template-Know-your-target-audience-nr.git
+	branch = origin
+[submodule "UBOS-template-Know-your-target-audience-ui"]
+	path = UBOS-template-Know-your-target-audience-ui
+	url = https://github.com/UBOS-Asset-Store/UBOS-template-Know-your-target-audience-ui.git
+	branch = main
